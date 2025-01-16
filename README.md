@@ -3,6 +3,14 @@
 ### **Project Overview**
 As part of the Travelers University Modeling Competition 2024, our team developed a machine learning model to forecast policyholder call counts. This project aimed to optimize call center resource allocation and reduce operational costs.
 
+### Repository Structure
+- **README.md**: Project overview and details.
+- **Data/**: Contains the training data and testing data source.
+- **Code/**: Contains the Jupyter Notebook with the modeling workflow.
+  - `code_final.ipynb`: Notebook with data preprocessing, modeling, and evaluation.
+- **Data Outcome and Presentation/**: Contains the final presentation summarizing the project.
+  - `CloverShield_Presentation.pdf`: Business presentation delivered to stakeholders.
+
 ### **Key Contributions**
 - **Data Preprocessing**: 
   - Addressed missing values using K-NN imputation for categorical features.
